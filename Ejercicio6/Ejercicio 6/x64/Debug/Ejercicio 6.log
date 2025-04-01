@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 6\Ejercicio 6\Game.cpp(60,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 6\Ejercicio 6\Game.cpp(60,55): warning C4244:         with
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 6\Ejercicio 6\Game.cpp(60,55): warning C4244:         [
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 6\Ejercicio 6\Game.cpp(60,55): warning C4244:             T=float
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 6\Ejercicio 6\Game.cpp(60,55): warning C4244:         ]
+  Ejercicio 6.vcxproj -> C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 6\x64\Debug\Ejercicio 6.exe
