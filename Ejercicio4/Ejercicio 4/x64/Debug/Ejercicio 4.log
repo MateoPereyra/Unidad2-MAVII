@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(50,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(50,55): warning C4244:         with
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(50,55): warning C4244:         [
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(50,55): warning C4244:             T=float
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(50,55): warning C4244:         ]
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(55,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(55,56): warning C4244:         with
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(55,56): warning C4244:         [
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(55,56): warning C4244:             T=float
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\Ejercicio 4\Game.cpp(55,56): warning C4244:         ]
+  Ejercicio 4.vcxproj -> C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 4\x64\Debug\Ejercicio 4.exe

@@ -1,0 +1,17 @@
+﻿  Ejercicio3.cpp
+  Game.cpp
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(50,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(50,55): warning C4244:         with
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(50,55): warning C4244:         [
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(50,55): warning C4244:             T=float
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(50,55): warning C4244:         ]
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(55,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(55,56): warning C4244:         with
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(55,56): warning C4244:         [
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(55,56): warning C4244:             T=float
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\Game.cpp(55,56): warning C4244:         ]
+  SFMLRenderer.cpp
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\Ejercicio 3\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Ejercicio 3.vcxproj -> C:\Users\mateo\source\repos\Unidad2-MAVII\Ejercicio 3\x64\Debug\Ejercicio 3.exe
